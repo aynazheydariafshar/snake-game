@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "productName": "Apple",
+    "image": "https://www.apple.com/v/mac/images/shared/apple_logo_black.png",
+    "from": "spain",
+    "nutrients": "4",
+    "quantity": "10",
+    "price": "6.5",
+    "organic": true,
+    "desc": "jmclkcl adajjdj kdjdkdkd "
+  },
+  {
+    "id": 2,
+    "productName": "Apple",
+    "image": "https://www.apple.com/v/mac/images/shared/apple_logo_black.png",
+    "from": "spain",
+    "nutrients": "4",
+    "quantity": "10",
+    "price": "6.5",
+    "organic": true,
+    "desc": "jmclkcl adajjdj kdjdkdkd "
+  },
+  {
+    "id":3,
+    "productName": "Apple",
+    "image": "https://www.apple.com/v/mac/images/shared/apple_logo_black.png",
+    "from": "spain",
+    "nutrients": "4",
+    "quantity": "10",
+    "price": "6.5",
+    "organic": true,
+    "desc": "jmclkcl adajjdj kdjdkdkd "
+  }
+]
